@@ -36,3 +36,9 @@ User Authentication: Ensure only authenticated users can perform image operation
 - MySQL
 - HTML/CSS
 
+- Books Rendering
+![Screenshot (634)](https://github.com/manoj7654/andreal_assignment/assets/107467981/9bbf33ca-817a-446a-bd23-06f2e1db5e6d)
+
+- Book editing
+![Screenshot (635)](https://github.com/manoj7654/andreal_assignment/assets/107467981/597c0113-99f0-4479-a099-6a607ac5462f)
+
